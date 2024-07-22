@@ -1,0 +1,36 @@
+h4 {
+    opacity: 0.5;
+    background-color: blueviolet;
+    color: blue;
+}
+
+.classSelector {
+    border: 3px solid rgb(117, 54, 54);
+    border-color: chartreuse;
+    color: rgb(216, 153, 164);
+}
+
+.text-1 {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: large;
+    line-height: 32px;
+    text-decoration: overline;
+}
+
+.box_model {
+    margin: 6px 12px;
+}
+
+.box_model {
+    display: block;
+}
+
+.inline_model {
+    display: inline;
+}
+
+.inline_block {
+    display: inline-block;
+    width: 200;
+    height: 300;
+}
